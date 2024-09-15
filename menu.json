@@ -1,0 +1,246 @@
+{
+	"menu": [
+	  {
+		"id": 1,
+		"category": "Breakfast",
+		"name": "Fruit Salad",
+		"description": "A selection of fresh seasonal fruits",
+		"price": "8000"
+	  },
+	  {
+		"id": 2,
+		"category": "Breakfast",
+		"name": "Add Yoghurt, Honey, Seeds & Nuts",
+		"description": "Add-ons for fruit salad",
+		"price": "4500"
+	  },
+	  {
+		"id": 3,
+		"category": "Breakfast",
+		"name": "Avocado on Toast",
+		"description": "Avocado on toast with grilled tomatoes, egg & feta cheese",
+		"price": "8000"
+	  },
+	  {
+		"id": 4,
+		"category": "Breakfast",
+		"name": "Yoghurt & Muesli",
+		"description": "With fresh seasonal fruits",
+		"price": "10000"
+	  },
+	  {
+		"id": 5,
+		"category": "Breakfast",
+		"name": "Pancakes",
+		"description": "With honey syrup and fruits",
+		"price": "8000"
+	  },
+	  {
+		"id": 6,
+		"category": "Breakfast",
+		"name": "French Toast",
+		"description": "Three slices of cinnamon French toast served with butter and maple syrup",
+		"price": "9000"
+	  },
+	  {
+		"id": 7,
+		"category": "Breakfast",
+		"name": "Hummus Toastie (v)",
+		"description": "Hummus on toast garnished with rocket, avocado, grilled tomatoes & feta cheese",
+		"price": "9000"
+	  },
+	  {
+		"id": 8,
+		"category": "Breakfast",
+		"name": "Feta Hummus Sandwich (v)",
+		"description": "Hummus, tomato, onion, feta and olives",
+		"price": "8000"
+	  },
+	  {
+		"id": 9,
+		"category": "Breakfast",
+		"name": "Hot Breakfast",
+		"description": "2 eggs any style, 1 sausage, bacon, roasted potatoes and toast",
+		"price": "15000"
+	  },
+	  {
+		"id": 10,
+		"category": "Breakfast",
+		"name": "Caffe Gelato Breakfast",
+		"description": "2 eggs any style, 2 sausage or bacon, 2 samosas, and fruits",
+		"price": "13000"
+	  },
+	  {
+		"id": 11,
+		"category": "Breakfast",
+		"name": "Make Your Own Omelette",
+		"description": "Choose 3 toppings: cheddar cheese, onion, bell pepper, mushrooms, basil, fresh chilies. Served with toast and butter",
+		"price": "10000"
+	  },
+	  {
+		"id": 12,
+		"category": "Additional Toppings",
+		"name": "Avocado",
+		"price": "2000"
+	  },
+	  {
+		"id": 13,
+		"category": "Additional Toppings",
+		"name": "One Egg",
+		"price": "2000"
+	  },
+	  {
+		"id": 14,
+		"category": "Additional Toppings",
+		"name": "One Sausage",
+		"price": "2000"
+	  },
+	  {
+		"id": 15,
+		"category": "Additional Toppings",
+		"name": "Bacon",
+		"price": "4000"
+	  },
+	  {
+		"id": 16,
+		"category": "Additional Toppings",
+		"name": "Roasted Potatoes",
+		"price": "5000"
+	  },
+	  {
+		"id": 17,
+		"category": "Additional Toppings",
+		"name": "Mushrooms",
+		"price": "3000"
+	  },
+	  {
+		"id": 18,
+		"category": "Sandwiches-Panini",
+		"name": "Veggie Panini",
+		"description": "Mozzarella, red pepper, aubergine, zucchini, mushroom & pesto",
+		"price": "8000"
+	  },
+	  {
+		"id": 19,
+		"category": "Sandwiches-Panini",
+		"name": "Tuna Melt",
+		"description": "Tuna with mayo, onions, celery, parsley and cheese",
+		"price": "9000"
+	  },
+	  {
+		"id": 20,
+		"category": "Sandwiches-Panini",
+		"name": "Chicken Panini",
+		"description": "Chili chicken mayo with cheese",
+		"price": "9000"
+	  },
+	  {
+		"id": 21,
+		"category": "Sandwiches-Panini",
+		"name": "Roast Beef Panini",
+		"description": "Roast beef, caramelized onion, rocket and chili mayo",
+		"price": "10000"
+	  },
+	  {
+		"id": 22,
+		"category": "Sandwiches-Panini",
+		"name": "Open Sandwich",
+		"description": "Fried egg, grilled tomato, bacon or mushroom, or chicken, avocado, mayo on toasted panini",
+		"price": "12000"
+	  },
+	  {
+		"id": 23,
+		"category": "Starters",
+		"name": "Soup of the Day",
+		"description": "Please ask the waiter for today's special soup",
+		"price": "8000"
+	  },
+	  {
+		"id": 24,
+		"category": "Starters",
+		"name": "Chicken Wings",
+		"description": "Served with French fries, salad, and a choice of BBQ sauce or hot sauce",
+		"price": "15000"
+	  },
+	  {
+		"id": 25,
+		"category": "Starters",
+		"name": "Aromatic Wings",
+		"description": "Wings tossed with vegetables, a hint of spice and sauce, served with salad & fries",
+		"price": "16000"
+	  },
+	  {
+		"id": 26,
+		"category": "Salads",
+		"name": "Greek Salad (v)",
+		"description": "Feta cheese, black olives, tomatoes, onions, green pepper & cucumber",
+		"price": "14000"
+	  },
+	  {
+		"id": 27,
+		"category": "Salads",
+		"name": "Chicken & Avocado Salad",
+		"description": "Chicken, cucumber, avocado, onions, tomato & sweet corn",
+		"price": "15000"
+	  },
+	  {
+		"id": 28,
+		"category": "Main Dishes",
+		"name": "Vegetable Curry (v)",
+		"price": "14000"
+	  },
+	  {
+		"id": 29,
+		"category": "Main Dishes",
+		"name": "Chicken or Beef Curry",
+		"price": "16000"
+	  },
+	  {
+		"id": 30,
+		"category": "Main Dishes",
+		"name": "Fish Fillet Curry",
+		"price": "20000"
+	  },
+	  {
+		"id": 31,
+		"category": "Burgers",
+		"name": "Veggie Burger (v)",
+		"description": "Served with hummus sauce",
+		"price": "13000"
+	  },
+	  {
+		"id": 32,
+		"category": "Burgers",
+		"name": "Minced Chicken or Beef Burger",
+		"price": "14000"
+	  },
+	  {
+		"id": 33,
+		"category": "Desserts",
+		"name": "Homemade Gelato",
+		"price": "4000"
+	  },
+	  {
+		"id": 34,
+		"category": "Desserts",
+		"name": "Chocolate Brownies",
+		"description": "With a scoop of ice cream and chocolate sauce",
+		"price": "10000"
+	  },
+	  {
+		"id": 35,
+		"category": "Pizza",
+		"name": "Margherita Pizza",
+		"description": "Homemade pizza sauce, mozzarella cheese, oregano, & fresh basil",
+		"price": "14000"
+	  },
+	  {
+		"id": 36,
+		"category": "Pizza",
+		"name": "Veggie Pizza (v)",
+		"description": "Tomato sauce, mozzarella cheese, red/green pepper, onions, olives, mushroom, sweet corn & oregano",
+		"price": "16000"
+	  }
+	]
+  }
+  
