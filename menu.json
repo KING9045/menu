@@ -1,246 +1,1346 @@
 {
-	"menu": [
-	  {
-		"id": 1,
-		"category": "Breakfast",
-		"name": "Fruit Salad",
-		"description": "A selection of fresh seasonal fruits",
-		"price": "8000"
-	  },
-	  {
-		"id": 2,
-		"category": "Breakfast",
-		"name": "Add Yoghurt, Honey, Seeds & Nuts",
-		"description": "Add-ons for fruit salad",
-		"price": "4500"
-	  },
-	  {
-		"id": 3,
-		"category": "Breakfast",
-		"name": "Avocado on Toast",
-		"description": "Avocado on toast with grilled tomatoes, egg & feta cheese",
-		"price": "8000"
-	  },
-	  {
-		"id": 4,
-		"category": "Breakfast",
-		"name": "Yoghurt & Muesli",
-		"description": "With fresh seasonal fruits",
-		"price": "10000"
-	  },
-	  {
-		"id": 5,
-		"category": "Breakfast",
-		"name": "Pancakes",
-		"description": "With honey syrup and fruits",
-		"price": "8000"
-	  },
-	  {
-		"id": 6,
-		"category": "Breakfast",
-		"name": "French Toast",
-		"description": "Three slices of cinnamon French toast served with butter and maple syrup",
-		"price": "9000"
-	  },
-	  {
-		"id": 7,
-		"category": "Breakfast",
-		"name": "Hummus Toastie (v)",
-		"description": "Hummus on toast garnished with rocket, avocado, grilled tomatoes & feta cheese",
-		"price": "9000"
-	  },
-	  {
-		"id": 8,
-		"category": "Breakfast",
-		"name": "Feta Hummus Sandwich (v)",
-		"description": "Hummus, tomato, onion, feta and olives",
-		"price": "8000"
-	  },
-	  {
-		"id": 9,
-		"category": "Breakfast",
-		"name": "Hot Breakfast",
-		"description": "2 eggs any style, 1 sausage, bacon, roasted potatoes and toast",
-		"price": "15000"
-	  },
-	  {
-		"id": 10,
-		"category": "Breakfast",
-		"name": "Caffe Gelato Breakfast",
-		"description": "2 eggs any style, 2 sausage or bacon, 2 samosas, and fruits",
-		"price": "13000"
-	  },
-	  {
-		"id": 11,
-		"category": "Breakfast",
-		"name": "Make Your Own Omelette",
-		"description": "Choose 3 toppings: cheddar cheese, onion, bell pepper, mushrooms, basil, fresh chilies. Served with toast and butter",
-		"price": "10000"
-	  },
-	  {
-		"id": 12,
-		"category": "Additional Toppings",
-		"name": "Avocado",
-		"price": "2000"
-	  },
-	  {
-		"id": 13,
-		"category": "Additional Toppings",
-		"name": "One Egg",
-		"price": "2000"
-	  },
-	  {
-		"id": 14,
-		"category": "Additional Toppings",
-		"name": "One Sausage",
-		"price": "2000"
-	  },
-	  {
-		"id": 15,
-		"category": "Additional Toppings",
-		"name": "Bacon",
-		"price": "4000"
-	  },
-	  {
-		"id": 16,
-		"category": "Additional Toppings",
-		"name": "Roasted Potatoes",
-		"price": "5000"
-	  },
-	  {
-		"id": 17,
-		"category": "Additional Toppings",
-		"name": "Mushrooms",
-		"price": "3000"
-	  },
-	  {
-		"id": 18,
-		"category": "Sandwiches-Panini",
-		"name": "Veggie Panini",
-		"description": "Mozzarella, red pepper, aubergine, zucchini, mushroom & pesto",
-		"price": "8000"
-	  },
-	  {
-		"id": 19,
-		"category": "Sandwiches-Panini",
-		"name": "Tuna Melt",
-		"description": "Tuna with mayo, onions, celery, parsley and cheese",
-		"price": "9000"
-	  },
-	  {
-		"id": 20,
-		"category": "Sandwiches-Panini",
-		"name": "Chicken Panini",
-		"description": "Chili chicken mayo with cheese",
-		"price": "9000"
-	  },
-	  {
-		"id": 21,
-		"category": "Sandwiches-Panini",
-		"name": "Roast Beef Panini",
-		"description": "Roast beef, caramelized onion, rocket and chili mayo",
-		"price": "10000"
-	  },
-	  {
-		"id": 22,
-		"category": "Sandwiches-Panini",
-		"name": "Open Sandwich",
-		"description": "Fried egg, grilled tomato, bacon or mushroom, or chicken, avocado, mayo on toasted panini",
-		"price": "12000"
-	  },
-	  {
-		"id": 23,
-		"category": "Starters",
-		"name": "Soup of the Day",
-		"description": "Please ask the waiter for today's special soup",
-		"price": "8000"
-	  },
-	  {
-		"id": 24,
-		"category": "Starters",
-		"name": "Chicken Wings",
-		"description": "Served with French fries, salad, and a choice of BBQ sauce or hot sauce",
-		"price": "15000"
-	  },
-	  {
-		"id": 25,
-		"category": "Starters",
-		"name": "Aromatic Wings",
-		"description": "Wings tossed with vegetables, a hint of spice and sauce, served with salad & fries",
-		"price": "16000"
-	  },
-	  {
-		"id": 26,
-		"category": "Salads",
-		"name": "Greek Salad (v)",
-		"description": "Feta cheese, black olives, tomatoes, onions, green pepper & cucumber",
-		"price": "14000"
-	  },
-	  {
-		"id": 27,
-		"category": "Salads",
-		"name": "Chicken & Avocado Salad",
-		"description": "Chicken, cucumber, avocado, onions, tomato & sweet corn",
-		"price": "15000"
-	  },
-	  {
-		"id": 28,
-		"category": "Main Dishes",
-		"name": "Vegetable Curry (v)",
-		"price": "14000"
-	  },
-	  {
-		"id": 29,
-		"category": "Main Dishes",
-		"name": "Chicken or Beef Curry",
-		"price": "16000"
-	  },
-	  {
-		"id": 30,
-		"category": "Main Dishes",
-		"name": "Fish Fillet Curry",
-		"price": "20000"
-	  },
-	  {
-		"id": 31,
-		"category": "Burgers",
-		"name": "Veggie Burger (v)",
-		"description": "Served with hummus sauce",
-		"price": "13000"
-	  },
-	  {
-		"id": 32,
-		"category": "Burgers",
-		"name": "Minced Chicken or Beef Burger",
-		"price": "14000"
-	  },
-	  {
-		"id": 33,
-		"category": "Desserts",
-		"name": "Homemade Gelato",
-		"price": "4000"
-	  },
-	  {
-		"id": 34,
-		"category": "Desserts",
-		"name": "Chocolate Brownies",
-		"description": "With a scoop of ice cream and chocolate sauce",
-		"price": "10000"
-	  },
-	  {
-		"id": 35,
-		"category": "Pizza",
-		"name": "Margherita Pizza",
-		"description": "Homemade pizza sauce, mozzarella cheese, oregano, & fresh basil",
-		"price": "14000"
-	  },
-	  {
-		"id": 36,
-		"category": "Pizza",
-		"name": "Veggie Pizza (v)",
-		"description": "Tomato sauce, mozzarella cheese, red/green pepper, onions, olives, mushroom, sweet corn & oregano",
-		"price": "16000"
-	  }
-	]
-  }
-  
+    "menu": [
+        {
+            "id": 1,
+            "category": "Breakfast",
+            "name": "Fruit Salad",
+            "description": "With yoghurt, honey & seeds",
+            "price": 9000
+        },
+        {
+            "id": 2,
+            "category": "Breakfast",
+            "name": "Avocado on Toast",
+            "description": "Avocado on toast with grilled tomatoes, egg & feta cheese",
+            "price": 9000
+        },
+        {
+            "id": 3,
+            "category": "Breakfast",
+            "name": "Yoghurt & Muesli",
+            "description": "With fresh seasonal fruits",
+            "price": 10000
+        },
+        {
+            "id": 4,
+            "category": "Breakfast",
+            "name": "Pancakes",
+            "description": "With honey syrup and fruits",
+            "price": 8000
+        },
+        {
+            "id": 5,
+            "category": "Breakfast",
+            "name": "French Toast",
+            "description": "Bread dipped in egg milk vanilla & cinnamon served with honey",
+            "price": 9000
+        },
+        {
+            "id": 6,
+            "category": "Breakfast",
+            "name": "Hummus Toastie (v)",
+            "description": "Hummus on toast garnish with avocado, grilled tomatoes & feta cheese",
+            "price": 9000
+        },
+        {
+            "id": 7,
+            "category": "Breakfast",
+            "name": "Feta Hummus Sandwich",
+            "description": "Hummus, tomato, onion, feta and olives",
+            "price": 8000
+        },
+        {
+            "id": 8,
+            "category": "Breakfast",
+            "name": "Hot Breakfast",
+            "description": "2 eggs any style, sausage or bacon, roasted potatoes and toast",
+            "price": 15000
+        },
+        {
+            "id": 9,
+            "category": "Breakfast",
+            "name": "Caffe Gelato Breakfast",
+            "description": "2 eggs any style, 2 sausage or bacon, 2 samosa, and fruits",
+            "price": 13000
+        },
+        {
+            "id": 10,
+            "category": "Breakfast",
+            "name": "Make Your Own Omelette",
+            "description": "Choose 3 toppings: cheddar cheese, onion, bell pepper, mushrooms, basil, fresh chilies, served with toast and butter",
+            "price": 10000
+        },
+        {
+            "id": 10,
+            "category": "Breakfast",
+            "name": "Veggie",
+            "description": "Mozzarella, red pepper, aubergine, zucchini, mushroom & pesto",
+            "price": 8000
+        },
+        {
+            "id": 11,
+            "category": "Sandwhiches Panin",
+            "name": "Tuna Melt",
+            "description": "Tuna with mayo, onions, parsley and cheese",
+            "price": 9000
+        },
+        {
+            "id": 12,
+            "category": "Sandwhiches Panin",
+            "name": "Chicken",
+            "description": "Chilli chicken mayo with cheese",
+            "price": 9000
+        },
+        {
+            "id": 13,
+            "category": "Sandwhiches Panin",
+            "name": "Roast Beef",
+            "description": "Roast beef, caramelized onion, lettuce and chilli mayo",
+            "price": 10000
+        },
+        {
+            "id": 14,
+            "category": "Sandwhiches Panin",
+            "name": "Open Sandwich",
+            "description": "Fried egg, grilled tomato, bacon or mushroom, or chicken, avocado, mayo on toasted panini",
+            "price": 12000
+        },
+        {
+            "id": 15,
+            "category": "Sandwhiches Panin",
+            "name": "Grilled Ham & Cheese Sandwich",
+            "description": "",
+            "price": 9000
+        },
+        {
+            "id": 16,
+            "category": "Sandwhiches Panin",
+            "name": "Caffe Gelato Panini",
+            "description": "Bolognese sauce, beef salami & cheese",
+            "price": 12000
+        },
+        {
+            "id": 17,
+            "category": "Sandwhiches Panin",
+            "name": "Special Sandwich",
+            "description": "Lettuce, tomato, egg, bacon, grilled chicken or beef & mayo. Served with fries",
+            "price": 18000
+        },
+        {
+            "id": 18,
+            "category": "Sandwhiches Panin",
+            "name": "Caffe Gelato Melt",
+            "description": "Grilled beef or chicken, onion, mushroom, cheese and chilli mayo",
+            "price": 15000
+        },
+        {
+            "id": 19,
+            "category": "Sandwhiches Panin",
+            "name": "Cheese Toastie Sandwich",
+            "description": "With onion & tomato",
+            "price": 8000
+        },
+        {
+            "id": 20,
+            "category": "Sandwhiches Panin",
+            "name": "Steak Melt",
+            "description": "Grilled beef, onion, peppers & cheese",
+            "price": 11000
+        },
+        {
+            "id": 21,
+            "category": "salads",
+            "name": "Greek Salad (v)",
+            "description": "Feta cheese, black olives, tomatoes, onions, green pepper & cucumber",
+            "price": 14000
+        },
+        {
+            "id": 22,
+            "category": "salads",
+            "name": "Chicken & Avocado Salad",
+            "description": "Chicken, cucumber, avocado, onions, tomato & sweet corn",
+            "price": 16000
+        },
+        {
+            "id": 23,
+            "category": "salads",
+            "name": "Caesar Salad",
+            "description": "Lettuce, chicken, bacon, boiled egg, croutons, Cheddar",
+            "price": 18000
+        },
+        {
+            "id": 24,
+            "category": "salads",
+            "name": "Garden Salad (v)",
+            "description": "Carrot, tomatoes, beetroots, cucumber, French beans, boiled egg, white onion, avocado",
+            "price": 15000
+        },
+        {
+            "id": 25,
+            "category": "salads",
+            "name": "Spicy Thai Salad Beef/Chicken",
+            "description": "Carrot, cucumber, lettuce, tomatoes, white onion, sesame seeds, avocado dressing with Thai sauce",
+            "price": 16000
+        },
+        {
+            "id": 26,
+            "category": "salads",
+            "name": "Butternut Feta and Pumpkin Seed Salad",
+            "description": "Lettuce, tomatoes, cucumber, feta cheese topped with roasted butternut and pumpkin seeds",
+            "price": 14500
+        },
+        {
+            "id": 27,
+            "category": "salads",
+            "name": "Veggie Salad",
+            "description": "Cucumber, French beans, carrot, olives, sweet corn, avocado",
+            "price": 14000
+        },
+        {
+            "id": 28,
+            "category": "salads",
+            "name": "Chicken Feta Salad",
+            "description": "Chicken, lettuce, tomato, cucumber, carrot, sweet corn, Feta & apple",
+            "price": 16000
+        },
+        {
+            "id": "29",
+            "category": "STARTERS",
+            "name": "SOUP OF THE DAY",
+            "description": "***Please ask the waiter for todays special soup***",
+            "price": "8000"
+        },
+        {
+            "id": "30",
+            "category": "STARTERS",
+            "name": "CHICKEN WINGS",
+            "description": "Served with French fries, salad, and a choice of sauce Bbq sauce or Hot sauce",
+            "price": "15000"
+        },
+        {
+            "id": "31",
+            "category": "STARTERS",
+            "name": "AROMATIC WINGS",
+            "description": "Wings tossed with vegetables a hint of spice and sauce Served with salad & fries",
+            "price": "16000"
+        },
+        {
+            "id": "32",
+            "category": "STARTERS",
+            "name": "TOMATO & BASIL BRUSCHETTA",
+            "description": "Chopped tomatoes, basil, garlic, onion, oregano, olive oil on toasted bread Add Avocado",
+            "price": "7500"
+        },
+        {
+            "id": "33",
+            "category": "STARTERS",
+            "name": "MUSHROOM BRUSCHETTA",
+            "description": "Oyster mushroom topped with fresh basil and sesame seeds",
+            "price": "9000"
+        },
+        {
+            "id": "34",
+            "category": "STARTERS",
+            "name": "BEEF OR VEGATABLE SAMOSA",
+            "description": "",
+            "price": "2000"
+        },
+        {
+            "id": "35",
+            "category": "STARTERS",
+            "name": "CHICKEN SAMOSA",
+            "description": "",
+            "price": "3000"
+        },
+        {
+            "id": "36",
+            "category": "BURGERS",
+            "name": "VEGGIE BURGER",
+            "description": "With hummus sauce",
+            "price": "14,000"
+        },
+        {
+            "id": "37",
+            "category": "BURGERS",
+            "name": "MINCED CHICKEN OR BEEF",
+            "description": "",
+            "price": "14,000"
+        },
+        {
+            "id": "38",
+            "category": "BURGERS",
+            "name": "FILLET CHICKEN /BEEF BURGER",
+            "description": "",
+            "price": "15,000"
+        },
+        {
+            "id": "39",
+            "category": "BURGERS",
+            "name": "CRISPY CHICKEN/BEEF BURGER",
+            "description": "",
+            "price": "15,000"
+        },
+        {
+            "id": "40",
+            "category": "BURGERS",
+            "name": "CRISPY FISH BURGER",
+            "description": "With tartar sauce",
+            "price": "18,000"
+        },
+        {
+            "id": "41",
+            "category": "MAIN DISHES",
+            "name": "VEGETABLE",
+            "description": " ",
+            "price": "14000"
+        },
+        {
+            "id": "42",
+            "category": "MAIN DISHES",
+            "name": "CHICKEN OR BEEF",
+            "description": " ",
+            "price": "16000"
+        },
+        {
+            "id": "43",
+            "category": "MAIN DISHES",
+            "name": "FISH FILLET",
+            "description": "In curry and coconut sauce served with steamed rice, chips, or mashed potatoes",
+            "price": "23000"
+        },
+        {
+            "id": "44",
+            "category": "MAIN DISHES",
+            "name": "CHICKEN BREAST",
+            "description": "Served with steamed vegetables and potatoes wedges, chips, rice, or mashed potatoes",
+            "price": "18000"
+        },
+        {
+            "id": "45",
+            "category": "MAIN DISHES",
+            "name": "GRILLED WHITE SNAPPER",
+            "description": "Served with garlic butter sauce, mashed potatoes and steamed vegetables",
+            "price": "25000"
+        },
+        {
+            "id": "46",
+            "category": "MAIN DISHES",
+            "name": "CHICKEN HALF",
+            "description": " ",
+            "price": "14000"
+        },
+        {
+            "id": "47",
+            "category": "MAIN DISHES",
+            "name": "WHOLE CHICKEN",
+            "description": "Add plain chips get free Greek salad",
+            "price": "27000"
+        },
+        {
+            "id": "48",
+            "category": "MAIN DISHES",
+            "name": "STROGANOFF",
+            "description": "Beef/ chicken strip in creamy mushroom sauce served with steamed rice, chips, or mashed potatoes",
+            "price": "17000"
+        },
+        {
+            "id": "49",
+            "category": "MAIN DISHES",
+            "name": "CHICKEN SCHNITZEL",
+            "description": "Served with chips & salad",
+            "price": "18000"
+        },
+        {
+            "id": "50",
+            "category": "MAIN DISHES",
+            "name": "BELL PEPPER CHICKEN OR BEEF STEW",
+            "description": "Served with steamed rice or chips",
+            "price": "16000"
+        },
+        {
+            "id": "51",
+            "category": "MAIN DISHES",
+            "name": "FILLET STEAK",
+            "description": "Served with a choice of one chips, roasted potatoes or creamy mash potatoes, vegetables or salad peppercorn sauce, mushroom sauce or garlic butter sauce",
+            "price": "22000"
+        },
+        {
+            "id": "52",
+            "category": "MAIN DISHES",
+            "name": "FISH AND CHIPS",
+            "description": "Fish fillet, breadcrumb herbs served with French fries and tartar sauce",
+            "price": "23000"
+        },
+        {
+            "id": "53",
+            "category": "MAIN DISHES",
+            "name": "CHICKEN RUN",
+            "description": "Deep fried breaded chicken filled with home made tomato sauce and mozzarello served with french fries or salad",
+            "price": "18000"
+        },
+        {
+            "id": "54",
+            "category": "WRAPS",
+            "name": "GREEK VEGGIE HUMMUS",
+            "description": "Hummus lettuce, cucumber, olives, feta, tomato, onion and roasted red paper",
+            "price": "14500"
+        },
+        {
+            "id": "55",
+            "category": "WRAPS",
+            "name": "SPICY WRAP",
+            "description": "Chicken or Beef Marinated with Lime, garlic, chili, and olive oil, wrapped with avocado, roasted peppers, lettuce, and coriander",
+            "price": "16000"
+        },
+        {
+            "id": "56",
+            "category": "WRAPS",
+            "name": "TUNA SALAD WRAP",
+            "description": "Tuna with onion, mayonnaise, celery, parsley, lettuce and avocado wrapped with tortilla,",
+            "price": "15000"
+        },
+        {
+            "id": "57",
+            "category": "WRAPS",
+            "name": "VEGGIE WRAP",
+            "description": "Lettuce, roasted pepper, avocado, tomato, cucumber, hummus, wrapped in tortilla",
+            "price": "14000"
+        },
+        {
+            "id": "58",
+            "category": "WRAPS",
+            "name": "ROASTED VEGGIE WRAP",
+            "description": "Aubergine, mushroom, zucchini, red peppers, feta cheese, lettuce, hummus",
+            "price": "16000"
+        },
+        {
+            "id": "59",
+            "category": "WRAPS",
+            "name": "FAJITAS",
+            "description": "Sliced steak OR chicken, peppers, onion, salsa, avocado & cheese wrapped in tortilla",
+            "price": "18000"
+        },
+        {
+            "id": "60",
+            "category": "WRAPS",
+            "name": "CRISPY CHICKEN WRAP",
+            "description": "Avocado, cucumber, tomato, onion lettuce crispy chicken wrapped in tortilla",
+            "price": "16000"
+        },
+        {
+            "id": "61",
+            "category": "PASTA & RISOTO",
+            "name": "MUSHROOM PASTA",
+            "description": "With creamy mushroom sauce, parsley & cheese",
+            "price": "15000"
+        },
+        {
+            "id": "62",
+            "category": "PASTA & RISOTO",
+            "name": "PASTA PRIMAVERA",
+            "description": "Penne pasta with fresh basil pesto, cream & roasted vegetables",
+            "price": "14000"
+        },
+        {
+            "id": "63",
+            "category": "PASTA & RISOTO",
+            "name": "CHICKEN ALFREDO",
+            "description": "Chicken breast, heavy cream, black paper & nutmeg",
+            "price": "16000"
+        },
+        {
+            "id": "64",
+            "category": "PASTA & RISOTO",
+            "name": "VEGETABLE LASAGNE",
+            "description": "Pasta layered with mixed vegetables, pesto & cheese",
+            "price": "16000"
+        },
+        {
+            "id": "65",
+            "category": "PASTA & RISOTO",
+            "name": "LASAGNE",
+            "description": "Mince beef OR chicken layered with rich tomato and cream sauce",
+            "price": "18000"
+        },
+        {
+            "id": "66",
+            "category": "PASTA & RISOTO",
+            "name": "MUSHROOM RISOTTO",
+            "description": "Creamy mushroom risotto served with cheese",
+            "price": "15000"
+        },
+        {
+            "id": "67",
+            "category": "PASTA & RISOTO",
+            "name": "SPAGHETTI BOLOGNESE",
+            "description": "Minced beef in rich tomato sauce",
+            "price": "16000"
+        },
+        {
+            "id": "68",
+            "category": "PASTA & RISOTO",
+            "name": "MUSHROOM CARBONARA",
+            "description": "Pasta with bacon and mushroom in a creamy sauce",
+            "price": "18000"
+        },
+        {
+            "id": "69",
+            "category": "PASTA & RISOTO",
+            "name": "PENNE PASTA",
+            "description": "Pasta cooked in creamy basil pesto sauce",
+            "price": "12000"
+        },
+        {
+            "id": "70",
+            "category": "PASTA & RISOTO",
+            "name": "PASTA CARBONARA",
+            "description": "Pasta with bacon in creamy sauce",
+            "price": "16000"
+        },
+        {
+            "id": "71",
+            "category": "PASTA & RISOTO",
+            "name": "CHICKEN & MUSHROOM PASTA",
+            "description": "Creamy mushroom & chicken pasta served with cheese",
+            "price": "18000"
+        },
+        {
+            "id": "72",
+            "category": "SWAHILI CONER",
+            "name": "CHICKEN MAKANGE HALF",
+            "description": "",
+            "price": "15000"
+        },
+        {
+            "id": "73",
+            "category": "SWAHILI CONER",
+            "name": "WHOLE CHICKEN",
+            "description": "",
+            "price": "28000"
+        },
+        {
+            "id": "74",
+            "category": "SWAHILI CONER",
+            "name": "CHIPS MAYAI",
+            "description": "Classic Tanzania street food, omelette",
+            "price": "8000"
+        },
+        {
+            "id": "75",
+            "category": "SWAHILI CONER",
+            "name": "CHICKEN VURUGA",
+            "description": "BEEF/CHICKEN",
+            "price": "15000"
+        },
+        {
+            "id": "76",
+            "category": "SWAHILI CONER",
+            "name": "MASALA CHIPS",
+            "description": "Chips cooked with spicy sauce",
+            "price": "8000"
+        },
+        {
+            "id": "77",
+            "category": "SWAHILI CONER",
+            "name": "PLAIN CHIPS",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "78",
+            "category": "KIDS CONER",
+            "name": "SAUSAGE & CHIPS",
+            "description": "",
+            "price": "9000"
+        },
+        {
+            "id": "79",
+            "category": "KIDS CONER",
+            "name": "CHICKEN NUGGET & CHIPS",
+            "description": "",
+            "price": "18000"
+        },
+        {
+            "id": "80",
+            "category": "KIDS CONER",
+            "name": "FISH FINGER & CHIPS",
+            "description": "",
+            "price": "14000"
+        },
+        {
+            "id": "81",
+            "category": "KIDS CONER",
+            "name": "PIZZA MARGARITA MINI",
+            "description": "",
+            "price": "12000"
+        },
+        {
+            "id": "82",
+            "category": "KIDS CONER",
+            "name": "CHEESE BURGER WITH CHIPS",
+            "description": "",
+            "price": "15000"
+        },
+        {
+            "id": "83",
+            "category": "KIDS CONER",
+            "name": "ITALIAN PASTA (V)",
+            "description": "",
+            "price": "10000"
+        },
+        {
+            "id": "84",
+            "category": "PIZZA",
+            "name": "MARGHERITA PIZZA",
+            "description": "Homemade pizza sauce, mozzarella cheese, oregano, & fresh basil",
+            "price": "14000"
+        },
+        {
+            "id": "85",
+            "category": "PIZZA",
+            "name": "VEGGIE PIZZA",
+            "description": "Tomato sauce, mozzarella cheese, red/ green pepper, onions, olives, Mushroom, sweet corn & oregano",
+            "price": "17000"
+        },
+        {
+            "id": "86",
+            "category": "PIZZA",
+            "name": "SALAMI PIZZA",
+            "description": "Tomato sauce, mozzarella cheese, beef salami, black olives, oregano, and fresh basil.",
+            "price": "19000"
+        },
+        {
+            "id": "87",
+            "category": "PIZZA",
+            "name": "HAWAIIAN PIZZA",
+            "description": "Tomato sauce, mozzarella, ham and pineapple",
+            "price": "19000"
+        },
+        {
+            "id": "88",
+            "category": "PIZZA",
+            "name": "FUNGHI PIZZA",
+            "description": "Tomato sauce, mozzarella cheese, mushroom, black olives and oregano",
+            "price": "17000"
+        },
+        {
+            "id": "89",
+            "category": "PIZZA",
+            "name": "BOLOGNA PIZZA",
+            "description": "Beef salami, mozzarella cheese, Bolognese meat sauce",
+            "price": "19000"
+        },
+        {
+            "id": "90",
+            "category": "PIZZA",
+            "name": "HOT CHICKEN PIZZA",
+            "description": "Tomato sauce, mozzarella, chicken, green pepper, onion & chilli",
+            "price": "17000"
+        },
+        {
+            "id": "91",
+            "category": "PIZZA",
+            "name": "MINCED/ SLICED BEEF",
+            "description": "Tomato sauce, mozzarella, beef, onion, green pepper & oregano",
+            "price": "17000"
+        },
+        {
+            "id": "92",
+            "category": "PIZZA",
+            "name": "CAFFE GELATO PIZZA",
+            "description": "Tomato sauce, mozzarella, sausage, chicken OR beef, mushroom, Onion, olives & oregano",
+            "price": "21000"
+        },
+        {
+            "id": "93",
+            "category": "PIZZA",
+            "name": "PREMIΟ ΡΙΖΖΑ",
+            "description": "Minced meat, chicken, bell pepper, onion, oregano, tomato sauce and cheese",
+            "price": "19000"
+        },
+        {
+            "id": "94",
+            "category": "PIZZA",
+            "name": "HAM & MUSHROOM PIZZA",
+            "description": "Tomato sauce, mozzarella, ham, mushroom, olives, and pepper",
+            "price": "19000"
+        },
+        {
+            "id": "95",
+            "category": "PIZZA",
+            "name": "VEGETARIAN",
+            "description": "Mozzarella cheese, mushroom, olives, Aubergine, Zucchini, Tanzania pesto & oregano",
+            "price": "17000"
+        },
+        {
+            "id": "96",
+            "category": "DESERT",
+            "name": "HOMEMADE GELATO",
+            "description": "per scoop",
+            "price": "4000"
+        },
+        {
+            "id": "97",
+            "category": "DESERT",
+            "name": "ADD CONE EXTRA",
+            "description": "per cone",
+            "price": "1000"
+        },
+        {
+            "id": "98",
+            "category": "DESERT",
+            "name": "CHOCOLATE BROWNISE",
+            "description": "With a scoop of ice cream and chocolate sauce",
+            "price": "10000"
+        },
+        {
+            "id": "99",
+            "category": "DESERT",
+            "name": "GELATO 1 LITER",
+            "description": "",
+            "price": "35000"
+        },
+        {
+            "id": "100",
+            "category": "DESERT",
+            "name": "COPPA FRUTTA",
+            "description": "2 scoops of sorbet on waffle bowl with mixed tropical fruit And whipped cream",
+            "price": "13000"
+        },
+        {
+            "id": "101",
+            "category": "DESERT",
+            "name": "BROWNISE",
+            "description": "With chocolate sauce",
+            "price": "5000"
+        },
+        {
+            "id": "102",
+            "category": "DESERT",
+            "name": "COPPA BANANA",
+            "description": "3 scoops of gelato on waffle bowl with fresh banana and Chocolate sauce and whipped cream",
+            "price": "15000"
+        },
+        {
+            "id": "103",
+            "category": "COFFEE",
+            "name": "ESPRESSO",
+            "description": "single",
+            "price": "4000"
+        },
+        {
+            "id": "103",
+            "category": "COFFEE",
+            "name": "ESPRESSO",
+            "description": "Double",
+            "price": "4500"
+        },
+        {
+            "id": "104",
+            "category": "COFFEE",
+            "name": "AMERICANO",
+            "description": "",
+            "price": "4000"
+        },
+        {
+            "id": "105",
+            "category": "COFFEE",
+            "name": "CAPPUCCINO",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "106",
+            "category": "COFFEE",
+            "name": "MOCHACCINO",
+            "description": "",
+            "price": "6000"
+        },
+        {
+            "id": "107",
+            "category": "COFFEE",
+            "name": "MACCHIATO",
+            "description": "",
+            "price": "4500"
+        },
+        {
+            "id": "108",
+            "category": "COFFEE",
+            "name": "FRENCH PRESS",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "109",
+            "category": "COFFEE",
+            "name": "SPECIALITY COFFEE",
+            "description": "Choose between bailey,Irish cream| kabLlua",
+            "price": "14000"
+        },
+        {
+            "id": "110",
+            "category": "SPECIAL DESERT",
+            "name": "PASSION FRUIT MARGHARITA",
+            "description": "A sorbet made with fresh passion fruit Infused with Tequila liquor",
+            "price": "10000"
+        },
+        {
+            "id": "111",
+            "category": "SPECIAL DESERT",
+            "name": "LEMON DROP",
+            "description": "Sweet and sour lemon gelato infused with tequila liquor",
+            "price": "10000"
+        },
+        {
+            "id": "112",
+            "category": "SPECIAL DESERT",
+            "name": "GELATO BEAN",
+            "description": "A delicious creamy coffee gelato infused with whisky",
+            "price": "10000"
+        },
+        {
+            "id": "113",
+            "category": "SPECIAL DESERT",
+            "name": "VANILLA ICE",
+            "description": "Vanilla gelato infused with gin or baileys",
+            "price": "10000"
+        },
+        {
+            "id": "114",
+            "category": "SPECIAL DESERT",
+            "name": "STRAWBERRY COCO",
+            "description": "A refreshing strawberry sorbet mixed with our coconut gelato. Just think of combination like your favorite starburst flavor. This gelato is infused with vodka and rum",
+            "price": "15000"
+        },
+        {
+            "id": "115",
+            "category": "HOT TEA",
+            "name": "MASALA TEA",
+            "description": "WITH MILK",
+            "price": "5000"
+        },
+        {
+            "id": "116",
+            "category": "HOT TEA",
+            "name": "BLACK MASALA TEA",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "117",
+            "category": "HOT TEA",
+            "name": "GINGER &LEMON TEA",
+            "description": "(DAWA)",
+            "price": "5000"
+        },
+        {
+            "id": "118",
+            "category": "HOT TEA",
+            "name": "HOT CHOCOLATE",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "119",
+            "category": "HOT TEA",
+            "name": "FRESH MINT TEA",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "120",
+            "category": "HOT TEA",
+            "name": "LEMONGRASS & GINGER TEA",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "121",
+            "category": "HOT TEA",
+            "name": "HERBAL TEA",
+            "description": "",
+            "price": "4000"
+        },
+        {
+            "id": "122",
+            "category": "ICED TEA",
+            "name": "HERBAL ICED TEA",
+            "description": "HERBAL ICED TEA",
+            "price": "5000"
+        },
+        {
+            "id": "123",
+            "category": "ICED TEA",
+            "name": "PASSION ICED TEA",
+            "description": "PASSION ICED TEA",
+            "price": "6000"
+        },
+        {
+            "id": "124",
+            "category": "ICED TEA",
+            "name": "LEMON AND GINGER ICED TEA",
+            "description": "LEMON AND GINGER ICED TEA",
+            "price": "6000"
+        },
+        {
+            "id": "125",
+            "category": "ICED TEA",
+            "name": "HIBISCUS ICE TEA",
+            "description": "HIBISCUS ICE TEA",
+            "price": "6000"
+        },
+        {
+            "id": "126",
+            "category": "ICED TEA",
+            "name": "MINT ICE TEA",
+            "description": "MINT ICE TEA",
+            "price": "6000"
+        },
+        {
+            "id": "127",
+            "category": "ICED COFFEE",
+            "name": "ICED BLACK COFFEE",
+            "description": " ",
+            "price": "5000"
+        },
+        {
+            "id": "128",
+            "category": "ICED COFFEE",
+            "name": "ICED CAPPUCCINO",
+            "description": " ",
+            "price": "6000"
+        },
+        {
+            "id": "129",
+            "category": "ICED COFFEE",
+            "name": "ICED MOCHACCINO",
+            "description": " ",
+            "price": "7000"
+        },
+        {
+            "id": "130",
+            "category": "ICED COFFEE",
+            "name": "ESPRESSO TONIC",
+            "description": "Double ecpresso,lime,tonic water ",
+            "price": "6000"
+        },
+        {
+            "id": "131",
+            "category": "ICED COFFEE",
+            "name": "ICED COFFEE WITH BAILEYS CREAM/KAHLUA",
+            "description": " ",
+            "price": "14500"
+        },
+        {
+            "id": "132",
+            "category": "ICED COFFEE",
+            "name": "COFFEE LEMONADE",
+            "description": " ",
+            "price": "6000"
+        },
+        {
+            "id": "133",
+            "category": "GELATO DRINKS",
+            "name": "AFFOGATO",
+            "description": "espresso with vanilla ice cream",
+            "price": "8000"
+        },
+        {
+            "id": "134",
+            "category": "GELATO DRINKS",
+            "name": "ICED CHOCOLATE WITH GELATO",
+            "description": "Made with our own gelato see display for flavors",
+            "price": "9000"
+        },
+        {
+            "id": "135",
+            "category": "GELATO DRINKS",
+            "name": "MILKSHAKE",
+            "description": "Made with our own gelato see display for flavors",
+            "price": "10000"
+        },
+        {
+            "id": "136",
+            "category": "GELATO DRINKS",
+            "name": "SODA FLOAT",
+            "description": "Choose between Coca cola, Fanta, and Sprite topped with an ice cream of your own choice",
+            "price": "6000"
+        },
+        {
+            "id": "137",
+            "category": "GELATO DRINKS",
+            "name": "LONG BLACK GELATO",
+            "description": "",
+            "price": "9000"
+        },
+        {
+            "id": "138",
+            "category": "GELATO DRINKS",
+            "name": "ICED COFFEE WITH GELATO",
+            "description": "",
+            "price": "10000"
+        },
+        {
+            "id": "139",
+            "category": "GELATO DRINKS",
+            "name": "MANGO PASSION",
+            "description": "Fresh mango & passion juice tapped with any gelato",
+            "price": "8000"
+        },
+        {
+            "id": "140",
+            "category": "CAFFE GELATO COOLER",
+            "name": "STRAWBERRY MINT LEMONADE",
+            "description": "Strawberries, mint, lemon, apple juice",
+            "price": "7000"
+        },
+        {
+            "id": "141",
+            "category": "CAFFE GELATO COOLER",
+            "name": "ΡΙΝΕΑPPLE PASSION",
+            "description": "Fresh pineapple, passion fruits, lemon & pineapple juice",
+            "price": "7000"
+        },
+        {
+            "id": "142",
+            "category": "CAFFE GELATO COOLER",
+            "name": "STRAWBERRY & PASSION FRUITS LEMONADE",
+            "description": "Fresh strawberries, passion fruits, lemon",
+            "price": "7000"
+        },
+        {
+            "id": "143",
+            "category": "CAFFE GELATO COOLER",
+            "name": "GINGER COOLER",
+            "description": "Fresh grated ginger, lemon",
+            "price": "6000"
+        },
+        {
+            "id": "144",
+            "category": "CAFFE GELATO COOLER",
+            "name": "HOMEMADE LEMONADE",
+            "description": "Lemon, mint leaves",
+            "price": "6000"
+        },
+        {
+            "id": "145",
+            "category": "CAFFE GELATO COOLER",
+            "name": "PASSION MOJITO",
+            "description": "Passion fruit, mint, lime, soda & apple juice",
+            "price": "7000"
+        },
+        {
+            "id": "146",
+            "category": "CAFFE GELATO COOLER",
+            "name": "HIBISCUS STRAWBERRY SODA",
+            "description": "Strawberry, hibiscus,",
+            "price": "7000"
+        },
+        {
+            "id": "147",
+            "category": "CAFFE GELATO COOLER",
+            "name": "CUCUMBER COOLER",
+            "description": "Cucumber, mint leaves. Lime and soda",
+            "price": "6000"
+        },
+        {
+            "id": "148",
+            "category": "CAFFE GELATO COOLER",
+            "name": "HIBISCUS & GINGER",
+            "description": "Hibiscus, ginger, lime, orange, soda",
+            "price": "6000"
+        },
+        {
+            "id": "149",
+            "category": "CAFFE GELATO COOLER",
+            "name": "ORANGE & PASSION FRUIT FIZZ",
+            "description": "Fresh Orange passion fruit mint",
+            "price": "7000"
+        },
+        {
+            "id": "150",
+            "category": "COLD DRINKS",
+            "name": "SODAS",
+            "description": "",
+            "price": "1000"
+        },
+        {
+            "id": "151",
+            "category": "COLD DRINKS",
+            "name": "TAKE AWAY SODA",
+            "description": "",
+            "price": "2000"
+        },
+        {
+            "id": "152",
+            "category": "COLD DRINKS",
+            "name": "WATER SMALL",
+            "description": "",
+            "price": "1000"
+        },
+        {
+            "id": "153",
+            "category": "COLD DRINKS",
+            "name": "WATER LARGE",
+            "description": "",
+            "price": "2500"
+        },
+        {
+            "id": "154",
+            "category": "COLD DRINKS",
+            "name": "RED BULL",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "155",
+            "category": "COLD DRINKS",
+            "name": "GRAND MALT",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "156",
+            "category": "SMOTHIES",
+            "name": "BERRY BANANA",
+            "description": "Mixed berries, banana, apple natural yoghurt",
+            "price": "8000"
+        },
+        {
+            "id": "157",
+            "category": "SMOTHIES",
+            "name": "BASIL LUSH",
+            "description": "Pineapple, lime, mango, fresh basil, natural yoghurt",
+            "price": "8000"
+        },
+        {
+            "id": "158",
+            "category": "SMOTHIES",
+            "name": "BERRY BLITZ",
+            "description": "Mixed berries, banana, orange natural yoghurt",
+            "price": "8000"
+        },
+        {
+            "id": "159",
+            "category": "SMOTHIES",
+            "name": "SUPER BLEND",
+            "description": "Mangoes, strawberries, banana, apple & yoghurt",
+            "price": "8000"
+        },
+        {
+            "id": "160",
+            "category": "SMOTHIES",
+            "name": "GREEN BREAKFAST",
+            "description": "Basil, cucumber, celery, mint leaves, parsley, avocado, banana & yoghurt",
+            "price": "9000"
+        },
+        {
+            "id": "161",
+            "category": "SMOTHIES",
+            "name": "BERRY HEALTHY SMOOTHIES",
+            "description": "With Muesli plain yoghurt mixed berries & banana",
+            "price": "9000"
+        },
+        {
+            "id": "162",
+            "category": "HEALTH JUICE",
+            "name": "MINT SUNSHINE",
+            "description": "Mint, carrot, orange and ginger",
+            "price": "6000"
+        },
+        {
+            "id": "163",
+            "category": "HEALTH JUICE",
+            "name": "CARROT BEET",
+            "description": "Beetroot, carrot, celery, parsley & basil",
+            "price": "6000"
+        },
+        {
+            "id": "164",
+            "category": "HEALTH JUICE",
+            "name": "DREAM DETOX",
+            "description": "Apple, lemon, cucumber, celery & ginger",
+            "price": "6000"
+        },
+        {
+            "id": "165",
+            "category": "HEALTH JUICE",
+            "name": "BANANA BERRY",
+            "description": "Apple, carrot, mixed berries & banana",
+            "price": "7000"
+        },
+        {
+            "id": "166",
+            "category": "HEALTH JUICE",
+            "name": "PINEAPPLE BERRY",
+            "description": "Mixed berries, oranges, pineapple, and banana",
+            "price": "7000"
+        },
+        {
+            "id": "167",
+            "category": "HEALTH JUICE",
+            "name": "ARUSHA SUNSET",
+            "description": "Oranges, passion, pineapple, mango",
+            "price": "6000"
+        },
+        {
+            "id": "168",
+            "category": "HEALTH JUICE",
+            "name": "LEMON GINGER ZINGER",
+            "description": "Lemon, ginger, apple, and carrot",
+            "price": "6000"
+        },
+        {
+            "id": "169",
+            "category": "HEALTH JUICE",
+            "name": "CAFFE GELATO SPECIAL",
+            "description": "Orange, cucumber, mixed berries, banana, & avocado",
+            "price": "7000"
+        },
+        {
+            "id": "170",
+            "category": "HEALTH JUICE",
+            "name": "BEET BEUTY",
+            "description": "Beetroot, carrot, apple,& ginger",
+            "price": "6000"
+        },
+        {
+            "id": "171",
+            "category": "HEALTH JUICE",
+            "name": "HEALTHY START",
+            "description": "Apple pineapple ginger & raspberries",
+            "price": "7,000"
+        },
+        {
+            "id": "172",
+            "category": "HEALTH JUICE",
+            "name": "CAFFE GELATO DETOX",
+            "description": "Apple basil, cucumber, parsley avocado, strawberry",
+            "price": "7000"
+        },
+        {
+            "id": "173",
+            "category": "HEALTH JUICE",
+            "name": "MANGO PASSION",
+            "description": "Avocado, passion, pineapple, mango",
+            "price": "6000"
+        },
+        {
+            "id": "181",
+            "category": "WHISKY",
+            "name": "JAMESON",
+            "description": "SHORT",
+            "price": "5000"
+        },
+        {
+            "id": "182",
+            "category": "WHISKY",
+            "name": "J & B",
+            "description": "SHORT",
+            "price": "5000"
+        },
+        {
+            "id": "183",
+            "category": "WHISKY",
+            "name": "JOHNNIE WALKER RED",
+            "description": "SHORT",
+            "price": "5000"
+        },
+        {
+            "id": "184",
+            "category": "WHISKY",
+            "name": "JOHNNIE WALKER BLACK",
+            "description": "SHORT",
+            "price": "6000"
+        },
+        {
+            "id": "185",
+            "category": "WHISKY",
+            "name": "JACK DANIEL",
+            "description": "SHORT",
+            "price": "6000"
+        },
+        {
+            "id": "186",
+            "category": "WHISKY",
+            "name": "GRANT",
+            "description": "SHORT",
+            "price": "5000"
+        },
+        {
+            "id": "187",
+            "category": "RUM",
+            "name": "BACARDI WHITE",
+            "description": "SHORT",
+            "price": "4000"
+        },
+        {
+            "id": "188",
+            "category": "GIN",
+            "name": "LONDON DRY GIN",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "189",
+            "category": "GIN",
+            "name": "GORDON'S",
+            "description": "",
+            "price": "4000"
+        },
+        {
+            "id": "190",
+            "category": "GIN",
+            "name": "HEDRICK",
+            "description": "",
+            "price": "5000"
+        },
+        {
+            "id": "191",
+            "category": "VODKA",
+            "name": "ABSOLUTE",
+            "description": "PER Short",
+            "price": "5000"
+        },
+        {
+            "id": "192",
+            "category": "VODKA",
+            "name": "SMIRNOFF",
+            "description": "PER Short",
+            "price": "5000"
+        },
+        {
+            "id": "193",
+            "category": "DIGESTIVE LIQUEURS",
+            "name": "BAILEYS",
+            "description": "PER short",
+            "price": "4000"
+        },
+        {
+            "id": "194",
+            "category": "DIGESTIVE LIQUEURS",
+            "name": "KAHLUA",
+            "description": "PER short",
+            "price": "4000"
+        },
+        {
+            "id": "195",
+            "category": "DIGESTIVE LIQUEURS",
+            "name": "AMARULA",
+            "description": "PER short",
+            "price": "4000"
+        },
+        {
+            "id": "196",
+            "category": "DIGESTIVE LIQUEURS",
+            "name": "TEQUILA",
+            "description": "PER short",
+            "price": "4000"
+        },
+        {
+            "id": "https://www.blackbox.ai/chat/GkU3Ggd",
+            "name-prompt": "extract the name,desciption,omit the toppings,price{omit the tsh and the separator in price},use the id from the corresponding numbering and give a json formart code"
+        }
+    ]
+}
+
